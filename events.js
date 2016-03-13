@@ -20,9 +20,11 @@ module.exports = {
 	 * Everything below this line is Adobe Specific
 	 */
 	beginPoll: 'beginPoll', //An event that tells the Adobe side to start polling extendScript for ES events
-	pollForMode:'pollForMode', //An event that instructs the Adobe side to start polling ES for a mode change
+	pollForMode:'pollForMode' //An event that instructs the Adobe side to start polling ES for a mode change
 
 	/**
 	 * Everything below this line is browser specific
 	 */
-}
+};
+
+var events = module.exports;
