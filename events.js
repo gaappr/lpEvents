@@ -5,7 +5,7 @@
  * @type {{}}
  */
 
-module.exports = {
+var events ={
 
 	/**
 	 * Events regarding the connection and negotiation of the username login
@@ -27,4 +27,4 @@ module.exports = {
 	 */
 };
 
-var events = module.exports;
+module.exports = events;
