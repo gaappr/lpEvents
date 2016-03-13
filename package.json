@@ -1,0 +1,25 @@
+{
+  "name": "lpevents",
+  "version": "1.0.0",
+  "description": "A list of websocket events that are passed between the Adobe Learning Path modules and the web side",
+  "main": "events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaappr/lpEvents.git"
+  },
+  "keywords": [
+    "socket.io",
+    "events",
+    "learning",
+    "path"
+  ],
+  "author": "Graham Anthony",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaappr/lpEvents/issues"
+  },
+  "homepage": "https://github.com/gaappr/lpEvents#readme"
+}
